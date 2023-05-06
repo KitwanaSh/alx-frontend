@@ -674,24 +674,7 @@
   .card-work:hover .card-title {
     opacity: 1;
   }
-  .footer {
-    padding: var(--footer-padding);
-  }
-  
-  .footer-copyright {
-    margin: 0;
-    font-size: var(--font-size-small);
-    color: var(--text-color);
-  }
-  
-  .footer ul {
-    text-align: right;
-  }
-  
-  .footer-address {
-    color: var(--text-color);
-  }
-  
+    
   .social-link {
     display: block;
   }
@@ -734,4 +717,21 @@
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
+  }
+  .footer {
+    padding: var(--footer-padding);
+  }
+  
+  .footer-copyright {
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+  }
+  
+  .footer ul {
+    text-align: right;
+  }
+  
+  .footer-address {
+    color: var(--text-color);
   }
