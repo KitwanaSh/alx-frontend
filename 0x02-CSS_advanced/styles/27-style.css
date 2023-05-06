@@ -206,9 +206,7 @@ a:hover {
     color: var(--color-primary);
 }
 .section-hero {
-    background-size: border-box;
-    width: 90rem;
-    height: auto;
+    background-size: 90rem auto;
 }
 .section-hero .section-title {
     margin-bottom: 5rem;
